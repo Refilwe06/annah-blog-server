@@ -2,9 +2,9 @@
   "name": "annahRefblog",
   "version": "1.0.0",
   "description": "Result Management System",
-  "main": "app.js",
+  "main": "app/app.js",
   "scripts": {
-    "start": "node app.js" 
+    "start": "node app/app.js" 
   },
   "keywords": [
     "node",
